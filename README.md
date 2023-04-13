@@ -1,5 +1,5 @@
 # Dash-Unsupervised-Learning
- -Agglomerative Hierarchical Clustering 
+ - Agglomerative Hierarchical Clustering 
  
  - DBSCAN Clustering 
  
