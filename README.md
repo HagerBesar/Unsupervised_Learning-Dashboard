@@ -4,11 +4,15 @@
 
 ---
 
- - Agglomerative Hierarchical Clustering 
+#### Agglomerative Hierarchical Clustering:
+- Agglomerative Clustering is a hierarchical clustering algorithm that starts with each data point in its own cluster and then merges the two closest clusters into a single cluster, iteratively until all the data points belong to one cluster.Agglomerative Clustering is good for visualizing hierarchical relationships. 
+
  
- - DBSCAN Clustering 
+#### DBSCAN Clustering :
+- DBSCAN stands for Density-Based Spatial Clustering of Applications with Noise.DBSCAN is a clustering algorithm that groups together data points that are close to each other and not part of any larger cluster. DBSCAN can handle data with arbitrary shapes and sizes of clusters and can also identify noise points.
  
- - kmeans Clustering
+#### kmeans Clustering :
+- K-Means is a partition-based clustering algorithm that separates data points into a predetermined number of clusters.The algorithm works by randomly assigning each data point to one of the clusters and then iteratively updating the center of each cluster based on the mean of the data points assigned to that cluster.K-Means is computationally efficient and can handle large datasets, but it is sensitive to the initial cluster assignments and can be influenced by outliers.
  
  
 ---
@@ -25,3 +29,5 @@
 - [Hager Besar](https://www.linkedin.com/in/hagerbesar)
 - [Dina Sofa]()
 - [Doha Metwaly]()
+
+![](assets/My_Dash.mp4)
