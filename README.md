@@ -4,6 +4,15 @@
 
 ---
 
+#### we used three popular clustering algorithms :
+- Agglomerative Clustering.
+- DBSCAN.
+- K-Means.
+
+#### The dashboard includes interactive visualizations that allow users to explore the results of each algorithm and compare the clustering outputs side-by-side.The user can also change the hyperparameters of each algorithm to see how the clustering changes.
+
+
+---
 #### Agglomerative Hierarchical Clustering:
 - Agglomerative Clustering is a hierarchical clustering algorithm that starts with each data point in its own cluster and then merges the two closest clusters into a single cluster, iteratively until all the data points belong to one cluster.Agglomerative Clustering is good for visualizing hierarchical relationships. 
 
